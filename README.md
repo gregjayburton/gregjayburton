@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregjayburton
 - 👀 I’m interested in ... #AR #Assets
-- 🌱 I’m currently learning ... #erryday
+- 🌱 I’m currently learning ... #MoCapRigs
 - 💞️ I’m looking to collaborate on ... #NFT
 - 📫 How to reach me ... Here!
 
