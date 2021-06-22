@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gregjayburton
-- 👀 I’m interested in ... #AR #Assets
-- 🌱 I’m currently learning ... #MoCapRigs
-- 💞️ I’m looking to collaborate on ... #NFT
-- 📫 How to reach me ... Here!
+Twitter:
+@gregjayburton
+
+// #AR #Edu
+
+
 
 <!---
 gregjayburton/gregjayburton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
